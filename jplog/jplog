@@ -1,0 +1,23 @@
+[I 10:25:13.975 LabApp] JupyterLab extension loaded from /home/hadoop/.virtualenvs/ClangRep-7xpWmViQ/lib/python3.6/site-packages/jupyterlab
+[I 10:25:13.975 LabApp] JupyterLab application directory is /home/hadoop/.virtualenvs/ClangRep-7xpWmViQ/share/jupyter/lab
+[I 10:25:13.976 LabApp] Serving notebooks from local directory: /home/hadoop/applauch/cpp/ClangRep
+[I 10:25:13.976 LabApp] The Jupyter Notebook is running at:
+[I 10:25:13.976 LabApp] https://localhost:9777/
+[I 10:25:13.976 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 10:25:26.852 LabApp] 404 GET /api/contents/python/lab?1566354326848 (127.0.0.1): No such file or directory: python/lab
+[W 10:25:26.852 LabApp] No such file or directory: python/lab
+[W 10:25:26.855 LabApp] 404 GET /api/contents/python/lab?1566354326848 (127.0.0.1) 4.28ms referer=https://localhost:9777/lab?
+[I 10:25:27.170 LabApp] Build is up to date
+[I 10:25:30.071 LabApp] Kernel started: 42e6bf63-8307-4d8e-baff-d409ead63f58
+[I 11:54:20.648 LabApp] Creating new notebook in /
+[I 11:54:20.917 LabApp] Kernel started: 4f19e4af-d68f-4bd8-901a-636eb0534a99
+[I 11:56:21.034 LabApp] Saving file at /Untitled.ipynb
+[I 11:58:21.114 LabApp] Saving file at /Untitled.ipynb
+[I 12:00:21.191 LabApp] Saving file at /Untitled.ipynb
+[I 15:08:21.297 LabApp] Saving file at /Untitled.ipynb
+[I 15:10:21.372 LabApp] Saving file at /Untitled.ipynb
+[I 15:12:08.723 LabApp] Saving file at /Untitled.ipynb
+[I 18:04:09.021 LabApp] Saving file at /Untitled.ipynb
+[I 18:42:14.274 LabApp] Saving file at /Untitled.ipynb
+[I 18:42:17.670 LabApp] Starting buffering for 4f19e4af-d68f-4bd8-901a-636eb0534a99:1bd51e91-ceeb-44f3-83dd-3a5b5790a98a
+[I 18:42:17.671 LabApp] Starting buffering for 42e6bf63-8307-4d8e-baff-d409ead63f58:d8e7979b-5fa4-456a-bfd4-63d7e6ee818b

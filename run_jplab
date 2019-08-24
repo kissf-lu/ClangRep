@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "starting jupyter server ... "
+pipenv run nohup jupyter lab --port=9777 > jplog/jplog &
+
+echo "jupyter nohup start!"
